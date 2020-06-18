@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello everyone!
+
+Purnima here, I like learning new things.
